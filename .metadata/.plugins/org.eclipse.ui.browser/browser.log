@@ -1,0 +1,135 @@
+
+Sep 07, 2018 22:47:53.32 NEW SESSION
+Sep 07, 2018 22:47:53.32 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 07, 2018 22:47:53.42 Created new window in existing browser session.
+Sep 07, 2018 22:56:40.50 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 07, 2018 22:56:40.61 Created new window in existing browser session.
+Sep 07, 2018 23:11:53.96 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 07, 2018 23:11:54.06 Created new window in existing browser session.
+Sep 07, 2018 23:14:02.08 Created new window in existing browser session.
+Sep 07, 2018 23:15:23.20 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 07, 2018 23:15:23.30 Created new window in existing browser session.
+Sep 08, 2018 24:19:24.77 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 08, 2018 24:19:24.98 Created new window in existing browser session.
+Sep 08, 2018 24:32:37.80 Created new window in existing browser session.
+Sep 08, 2018 02:27:12.68 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 08, 2018 02:27:12.81 Created new window in existing browser session.
+
+Sep 08, 2018 18:43:51.70 NEW SESSION
+Sep 08, 2018 18:43:51.70 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 08, 2018 18:43:52.11 Created new window in existing browser session.
+Sep 08, 2018 18:51:22.30 Created new window in existing browser session.
+Sep 08, 2018 19:10:03.65 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 08, 2018 19:10:03.76 Created new window in existing browser session.
+
+Sep 10, 2018 10:12:34.92 NEW SESSION
+Sep 10, 2018 10:12:34.92 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 10, 2018 10:15:59.75 [2512:2534:0910/101559.756739:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:17:22.89 [2512:2534:0910/101722.899274:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Sep 10, 2018 10:23:34.68 [2512:2534:0910/102334.680536:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:23:34.91 [2512:2534:0910/102334.914345:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:23:34.91 [2512:2534:0910/102334.915971:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:23:35.00 [2512:2534:0910/102335.006872:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:23:35.00 [2512:2534:0910/102335.008710:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:24:05.37 [2512:2534:0910/102405.370594:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 10, 2018 10:24:09.35 [2512:2534:0910/102409.356661:ERROR:ssl_client_socket_impl.cc(1026)] handshake failed; returned -1, SSL error code 1, net_error -100
+Sep 10, 2018 10:24:12.54 [2512:2512:0910/102412.542290:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:14.82 [2512:2512:0910/102414.822707:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:17.06 [2512:2512:0910/102417.069287:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:17.16 [2512:2512:0910/102417.167422:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:18.99 [2512:2512:0910/102418.995507:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:19.27 [2512:2512:0910/102419.279408:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:19.92 [2512:2512:0910/102419.928564:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:21.49 [2512:2512:0910/102421.499616:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:21.78 [2512:2512:0910/102421.781414:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:22.34 [2512:2512:0910/102422.349242:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:22.63 [2512:2512:0910/102422.631499:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:23.35 [2512:2512:0910/102423.356309:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:23.56 [2512:2512:0910/102423.560236:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:24.42 [2512:2512:0910/102424.427150:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:24:24.99 [2512:2512:0910/102424.994784:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Sep 10, 2018 10:24:25.27 [2512:2512:0910/102425.274377:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:06.26 [2512:2512:0910/102506.266803:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:08.11 [2512:2512:0910/102508.114827:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:09.06 [2512:2512:0910/102509.063198:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:10.91 [2512:2512:0910/102510.915971:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:11.77 [2512:2512:0910/102511.773060:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:12.71 [2512:2512:0910/102512.713125:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:13.59 [2512:2512:0910/102513.599435:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:25:14.45 [2512:2512:0910/102514.458248:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:31.24 [2512:2512:0910/102931.240192:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:33.07 [2512:2512:0910/102933.073671:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:34.02 [2512:2512:0910/102934.020202:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:35.89 [2512:2512:0910/102935.894859:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:36.74 [2512:2512:0910/102936.741652:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:37.68 [2512:2512:0910/102937.687726:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:38.55 [2512:2512:0910/102938.552664:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:29:39.39 [2512:2512:0910/102939.399021:ERROR:latency_info.cc(164)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Sep 10, 2018 10:33:23.48 [2512:2534:0910/103323.485159:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:33:32.45 [2512:2767:0910/103332.458334:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Sep 10, 2018 10:33:52.55 [2512:2534:0910/103352.559567:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:34:44.04 [2512:2534:0910/103444.041414:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:34:47.46 [2512:2767:0910/103447.462500:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Sep 10, 2018 10:36:05.16 [2512:2534:0910/103605.160846:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:37:54.46 [2512:2767:0910/103754.467243:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Sep 10, 2018 10:39:38.63 [2512:2534:0910/103938.636225:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:42:35.47 [2512:2767:0910/104235.471249:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+Sep 10, 2018 10:46:07.97 [2512:2534:0910/104607.974660:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 10, 2018 10:49:37.47 [2512:2767:0910/104937.475189:ERROR:get_updates_processor.cc(243)] PostClientToServerMessage() failed during GetUpdates
+
+Sep 10, 2018 11:59:45.25 NEW SESSION
+Sep 10, 2018 11:59:45.25 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 10, 2018 11:59:45.48 Created new window in existing browser session.
+
+Sep 12, 2018 07:32:39.22 NEW SESSION
+Sep 12, 2018 07:32:39.22 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 12, 2018 07:32:39.41 Created new window in existing browser session.
+
+Sep 13, 2018 11:13:16.87 NEW SESSION
+Sep 13, 2018 11:13:16.87 Created new window in existing browser session.
+Sep 13, 2018 11:13:55.08 Created new window in existing browser session.
+Sep 13, 2018 11:17:02.95 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 13, 2018 11:17:03.05 Created new window in existing browser session.
+Sep 13, 2018 12:29:36.69 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 13, 2018 12:29:36.75 Created new window in existing browser session.
+
+Sep 15, 2018 22:42:56.47 NEW SESSION
+Sep 15, 2018 22:42:56.47 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 15, 2018 22:42:59.71 [3899:3921:0915/224259.711557:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 15, 2018 22:43:24.83 [3899:3921:0915/224324.837806:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 15, 2018 22:43:35.20 [3899:3899:0915/224335.203414:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-106).
+Sep 15, 2018 22:43:35.92 [3899:3899:0915/224335.922632:ERROR:account_tracker.cc(266)] OnGetTokenFailure: Connection failed (-106).
+Sep 15, 2018 22:44:21.78 [3899:3921:0915/224421.780697:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 15, 2018 22:44:52.98 Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Sep 15, 2018 22:45:54.61 [3899:3921:0915/224554.618243:ERROR:connection_factory_impl.cc(403)] Failed to connect to MCS endpoint with error -106
+Sep 15, 2018 22:51:50.72 [3899:3921:0915/225150.729195:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 22:56:58.92 [3899:3921:0915/225658.926158:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:02:01.64 [3899:3921:0915/230201.643857:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:07:02.17 [3899:3921:0915/230702.171453:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:12:12.53 [3899:3921:0915/231212.529812:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:17:18.81 [3899:3921:0915/231718.818281:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:22:23.59 [3899:3921:0915/232223.593959:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:27:34.41 [3899:3921:0915/232734.416896:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:32:44.20 [3899:3921:0915/233244.208568:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:37:45.86 [3899:3921:0915/233745.864350:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:49:45.29 [3899:3921:0915/234945.297087:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 15, 2018 23:54:55.93 [3899:3921:0915/235455.937791:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:00:03.13 [3899:3921:0916/000003.131495:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:07:56.33 [3899:3921:0916/000756.338673:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:13:03.57 [3899:3921:0916/001303.572202:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:20:53.96 [3899:3921:0916/002053.960199:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:30:28.34 [3899:3921:0916/003028.346946:ERROR:socket_stream.cc(210)] Closing stream with result -100
+Sep 16, 2018 24:36:26.91 [3899:3921:0916/003626.919478:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+Sep 19, 2018 24:24:03.79 NEW SESSION
+Sep 19, 2018 24:24:03.79 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 19, 2018 24:32:07.91 [2543:2565:0919/003207.917593:ERROR:socket_stream.cc(210)] Closing stream with result -100
+
+Sep 20, 2018 22:41:54.46 NEW SESSION
+Sep 20, 2018 22:41:54.46 Created new window in existing browser session.
+Sep 20, 2018 22:56:57.66 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 20, 2018 22:56:58.03 Created new window in existing browser session.
+Sep 20, 2018 22:57:49.49 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 20, 2018 22:57:49.59 Created new window in existing browser session.
+Sep 21, 2018 24:45:15.01 ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Sep 21, 2018 24:45:15.14 Created new window in existing browser session.

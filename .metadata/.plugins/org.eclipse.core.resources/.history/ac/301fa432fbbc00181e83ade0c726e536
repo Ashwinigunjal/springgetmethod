@@ -1,0 +1,7 @@
+package com.home.restcontroller;
+
+import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+public class HomeDispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer{
+
+}

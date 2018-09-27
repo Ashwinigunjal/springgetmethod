@@ -1,0 +1,14 @@
+{
+"id": 1,
+"name": "Ashwini",
+"lname" : "Gunjal",
+"address" : {
+	"tal" : "sangamner",
+	"dist" : "nagar"
+}
+,
+"language" : ["english","hindi","marathi"]
+,
+"company": "OS3 infotech"
+
+}

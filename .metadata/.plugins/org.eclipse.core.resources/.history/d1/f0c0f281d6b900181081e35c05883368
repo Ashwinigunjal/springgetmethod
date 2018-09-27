@@ -1,0 +1,13 @@
+package com.aopdemo.main;
+
+
+@Component
+public class AccountDao {
+
+	
+	public void addAccount(){
+		
+		System.out.println("This is add account method");
+	}
+	
+}

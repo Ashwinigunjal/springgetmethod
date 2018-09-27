@@ -1,0 +1,16 @@
+package com.aopdemo.main;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class MainDemoApp {
+
+	public MainDemoApp() {
+		// TODO Auto-generated constructor stub
+
+		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext("DemoConfig.class");
+		
+		
+	
+	
+	}
+}

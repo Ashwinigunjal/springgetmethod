@@ -1,0 +1,8 @@
+package com.home.restcontroller;
+
+@Configuration
+@EnableWebMvc
+@ComponentScan("com.home")
+public class HomeConfig {
+
+}

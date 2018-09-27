@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;spring_mvc_cruid&apos; to &apos;springmvccruid&apos;" description="Rename resource &apos;spring_mvc_cruid&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring_mvc_cruid" name="springmvccruid" stamp="1536560659067" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;httpget&apos;" deleteContents="false" description="Delete resource &apos;httpget&apos;" element1="/httpget" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1536816055401"/>
+</session>

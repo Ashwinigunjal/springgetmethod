@@ -1,0 +1,24 @@
+package com.aopdemo.main;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.aopdemo.dao.AccountDao;
+
+public class MainDemoApp {
+
+	public MainDemoApp() {
+		// TODO Auto-generated constructor stub
+
+		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext("DemoConfig.class");
+		
+		//create dao class object
+		AccountDao theAccountDao = context.getBean("accountDao",AccountDao.class);
+		
+		theAccountDao.addAccount();
+		
+		//
+		
+	
+	
+	}
+}

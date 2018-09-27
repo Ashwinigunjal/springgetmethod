@@ -1,0 +1,4 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringMvcForm/WebContent/WEB-INF/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/spring_mvc_cruid/WebContent/WEB-INF/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage id\="com.springsource.sts.config.ui.editors.namespaces" index\="0" kind\="formPage"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/springmvccruid/WebContent/WEB-INF/spring-servlet.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1

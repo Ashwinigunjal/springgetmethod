@@ -1,0 +1,10 @@
+package com.aopdemo.main;
+
+
+
+@Configuration
+@EnableAspectJAutoProxy
+@ComponentScan("com.aopdemo")
+public class DemoConfig {
+
+}
